@@ -1,1 +1,24 @@
+html {
+  font: 100%/1 Georgia;
+}
 
+body {
+  font-size: 90%;
+  background-color: #cec8ef;
+  max-width: 48em;
+  padding: 0 1rem;
+  margin: 1rem auto;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  font: georgia;
+}
+
+h2 {
+  font-size: 1em;
+  font-color:#cc919a;
+}
+  
+  
