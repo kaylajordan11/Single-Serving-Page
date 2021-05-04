@@ -32,7 +32,7 @@ h2 {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #FFCCE5;
+  background-color: #E0FFFF;
 }
 
 ul.topnav li {float: left;}
@@ -55,18 +55,3 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 } 
-
-a:link {
-  color: #342211;
-  text-decoration: none;
-  font-size: 1em; 
-}
-a:visited {
-  color: #342211;
-}
-a:hover {
-  background-color: #d2b48c;
-}
-a:active {
-  color: #342211;
-}
