@@ -19,6 +19,27 @@ h1 {
 h2 {
   font-size: 1em;
 }
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.figure {
+  border: 1px solid #000;
+  margin: 1rem 0;
+}
+
+.figure summary {
+  visibility: hidden;
+}
+
+.figure summary img {
+  visibility: visible;
+  margin-top: -1rem;
+}
   
 @media (prefers-reduced-motion: no-preference) {
   
