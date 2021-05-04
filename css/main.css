@@ -4,7 +4,7 @@ html {
 
 body {
   font-size: 90%;
-  background-color: #cec8ef;
+  background-color: ##e6e6fa;
   max-width: 48em;
   padding: 0 1rem;
   margin: 1rem auto;
@@ -18,7 +18,6 @@ h1 {
 
 h2 {
   font-size: 1em;
-  font-color:#cc919a;
 }
   
 @media (prefers-reduced-motion: no-preference) {
