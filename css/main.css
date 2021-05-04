@@ -25,6 +25,8 @@ img {
   max-width: 87%;
   height: auto;
   vertical-align: middle;
+  margin-top: -1rem;
+  margin-bottom: -1rem;
 }
 
 .figure summary {
