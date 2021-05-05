@@ -52,11 +52,12 @@ img {
 
 }
  ul.topnav {
- list-style-type: none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #E0FFFF;
+  justify-content: center;
 }
 
 ul.topnav li {float: left;}
