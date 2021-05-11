@@ -59,7 +59,7 @@ img {
   background-color: #E0FFFF;
 }
 
-ul.topnav li {float: middle;}
+ul.topnav li {float: left;}
 
 ul.topnav li a {
   display: block;
